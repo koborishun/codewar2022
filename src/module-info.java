@@ -1,0 +1,2 @@
+module codewar2022 {
+}
